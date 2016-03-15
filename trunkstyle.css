@@ -21,11 +21,12 @@
 }
 
 .rectangle {
+	text-align: center;
 	position: relative;
-	width: 100%;
+	left: 25%;
+	width: 50%;
 	height: 100px;
 	background: lightblue;
-	padding-top: 100px:
 	Font-family: "Arial", Helvetica, sans-Serif;
 	Font-size: 400%;
 	color: black;
