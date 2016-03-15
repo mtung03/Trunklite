@@ -1,10 +1,12 @@
 .header {
+	padding-top: 2px;
+	padding-bottom: 2px;
 	text-align: center;
 	background-color: darkgray;
 }
 .menu {
+	margin-top: 4px;
 	text-align: center;
-	background-color: lightgray;
 }
 .title {
 	text-align: center;
@@ -12,10 +14,28 @@
 	border-style: solid;
 	border-width: thin;
 	border-color: black;
+	font-weight: bold;
 }
 .login {
 	text-align: center;
 	border-style: solid;
 	border-color: black;
 	padding-bottom: 8px;
+	position: center;
+}
+.option {
+	border-style: solid;
+	border-color: navy;
+	margin-bottom: 8px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	background-color: lightgray;
+}
+.document{
+	text-align: center;
+	width: 100%;
+}
+.icon {
+	width: 30px;
+	height: 30px;
 }
