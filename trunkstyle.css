@@ -39,3 +39,36 @@
 	width: 30px;
 	height: 30px;
 }
+
+.rectangle {
+	text-align: center;
+	position: relative;
+	left: 25%;
+	width: 50%;
+	height: 100px;
+	background: lightblue;
+	font-family: "Arial", Helvetica, sans-Serif;
+	font-size: 400%;
+	color: black;
+	text-decoration: none;
+	vertical-align: middle;
+	border-style: solid;
+    border-width: 3px;
+	border-color: blue;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
