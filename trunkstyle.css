@@ -107,6 +107,7 @@
 
 .rectangle {
 	text-align: center;
+	text-align: middle;
 	position: relative;
 	width: 100%;
 	height: 100px;
