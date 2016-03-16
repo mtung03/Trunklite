@@ -4,6 +4,11 @@
 	text-align: center;
 	background-color: darkgray;
 }
+
+.container {
+	background-color: lightblue;
+}
+
 .menu {
 	margin-top: 4px;
 	text-align: center;
