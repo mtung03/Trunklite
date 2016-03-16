@@ -8,3 +8,5 @@ Model will not be fully funtional, just a quick proof-of-concept for the interfa
 
 to-do:
  - fix image widths for small screens
+ - make some buttons bigger
+ - text in buttons centered vertically
